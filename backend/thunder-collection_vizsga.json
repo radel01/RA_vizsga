@@ -1,0 +1,46 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "vizsga",
+    "collectionId": "5811c475-09fc-40ed-bdd4-2fa8a6254202",
+    "dateExported": "2025-05-30T07:01:27.402Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "3d706d1d-a3e6-4b5f-914e-ce91a53e97b4",
+            "colId": "5811c475-09fc-40ed-bdd4-2fa8a6254202",
+            "containerId": "",
+            "name": "tema",
+            "url": "/szavak",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2025-05-30T06:58:53.741Z",
+            "modified": "2025-05-30T06:59:23.043Z",
+            "headers": []
+        },
+        {
+            "_id": "7a9adc8f-e2e2-441f-99f4-32920c56fb5e",
+            "colId": "5811c475-09fc-40ed-bdd4-2fa8a6254202",
+            "containerId": "",
+            "name": "szavk",
+            "url": "/szavak",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2025-05-30T07:00:31.814Z",
+            "modified": "2025-05-30T07:00:36.404Z",
+            "headers": []
+        }
+    ],
+    "settings": {
+        "headers": [
+            {
+                "name": "Accept",
+                "value": "application/json"
+            }
+        ],
+        "options": {
+            "baseUrl": "http://127.0.0.1:8000/api"
+        }
+    },
+    "ref": "9_7FaXXsrg14A5rICXj_KI_f0aMx5fCa3c_lNu7bJowjrZbPI1JZLRs_AaeB9UnRDDDfj1aN1pc_-pkMCDZzhg"
+}
